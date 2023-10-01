@@ -1,6 +1,5 @@
 # HR Analtyics Dashboard
-Project Objective : To help an organsaation to improve employees performance and enhance retention (reduce attrition) by creating dashbard. This dashboard is analyzed to discover employee's performance metrics using different KPI. The dataset consist of employee's demographic work schedule and performance metrics. 
-
+Project Objective : To help an origination to improve employees performance and enhance retention (reduce attrition) by creating dashboard. This dashboard is analyzed to discover employee's performance metrics using different KPI. The dataset consist of employee's demographic work schedule and performance metrics.
 Steps Followed:
 1) Data Cleaning : Removing null and duplicate values, replacing errors.
 2) Renaming the columns, Cleaning individual coloumns.
