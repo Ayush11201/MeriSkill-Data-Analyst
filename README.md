@@ -16,3 +16,7 @@ Insight Of the Dashboard :
 - Male is 60% & Female is 40%.
 - Life Science has the maximum employee of  606 followed by Medical & Marketing.
 - The employee who Travel Rarely has maximum employees of 1043.
+# Diabatic Analysis
+Diabetes is a health condition that affects how your body turns food into energy. Most of the food you eat is broken down into sugar (also called glucose) and released into your bloodstream. When your blood sugar goes up, it signals your pancreas to release insulin.
+
+Without ongoing, careful management, diabetes can lead to a buildup of sugars in the blood, which can increase the risk of dangerous complications, including stroke and heart disease. So that i decide to predict using Machine Learning in Python.
